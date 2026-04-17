@@ -119,19 +119,7 @@
 
 </div>
 
----
 
-## 🎓 Parcours
-
-```
-🎓 Cycle Ingénieur — Génie Informatique          [2024 → présent]
-   ENSA Tétouan · Software Engineering · Systèmes · Open Source
-
-📐 Cycle Préparatoire                             [2022 → 2024]
-   ENSA Tétouan · Maths · Algorithmique · Analyse
-```
-
----
 
 ## 🌐 Me contacter
 
