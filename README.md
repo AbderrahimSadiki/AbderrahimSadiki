@@ -77,26 +77,6 @@
 
 </div>
 
----
-
-## 🚀 Projets
-
-<div align="center">
-
-| Projet | Description | Stack | Année |
-|--------|-------------|-------|-------|
-| 🎮 [**SpaceDefender**](https://github.com/AbderrahimSadiki) | Jeu de tir spatial avec niveaux, animations, score, persistance DB et mode multijoueur via sockets | `Java` `Swing/JavaFX` `Threads` `Sockets` `JDBC` | 2026 |
-| 💊 [**GestionPharmacie**](https://github.com/AbderrahimSadiki) | Application WinForms de gestion d'officine : ventes, factures, stocks, alertes, dashboard | `C#` `.NET 8` `WinForms` `SQL Server` `PDF` | 2026 |
-| 📱 [**QRnutrition**](https://github.com/AbderrahimSadiki) | App Flutter de scan produits, suivi alimentaire et gestion de rôles connectée à Firebase | `Flutter` `Dart` `Firebase` `Firestore` `OpenFoodFacts` | 2026 |
-| ⚽ [**Anfield**](https://github.com/AbderrahimSadiki) | Application MVC PHP pour réservation de terrains, services additionnels et tournois | `PHP 8.1` `MVC` `MySQL` `Composer` `reCAPTCHA` | 2025 |
-| 🏆 [**projet_web25**](https://github.com/AbderrahimSadiki) | Portail web CAN Maroc 2025 : équipes, stades, calendrier, stats — responsive & interactif | `HTML` `CSS` `JavaScript` `Vite` `Chart.js` | 2025 |
-| 🛒 [**Ecomma**](https://github.com/AbderrahimSadiki) | Application desktop e-commerce en C# | `C#` `.NET` `Desktop App` | 2026 |
-| 🌐 [**Portfolio**](https://github.com/AbderrahimSadiki) | Portfolio personnel — présentation des réalisations et image pro | `Next.js` `React` `Tailwind CSS` | 2026 |
-| 🐧 [**iSOx64**](https://github.com/AbderrahimSadiki) | Projet personnel Linux — dépôt visible dans le profil GitHub | `Linux` `Open Source` | 2026 |
-
-</div>
-
----
 
 ## 📊 Statistiques GitHub
 
