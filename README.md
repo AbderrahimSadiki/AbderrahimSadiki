@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abderrahim%20Sadiki&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20%C2%B7%20Software%20%7C%20Systems%20%7C%20Open%20Source&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abderrahim%20Sadiki&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Science+Student" alt="Typing SVG" />
@@ -10,18 +10,6 @@
 
 <a href="https://github.com/AbderrahimSadiki">
   <img src="https://komarev.com/ghpvc/?username=AbderrahimSadiki&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-<a href="mailto:abderrahim.sadikki@gmail.com">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/abderrahim-sadiki-4b5722231">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/AbderrahimSadiki">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.abderrahim-sadiki.com/">
-  <img src="https://img.shields.io/badge/-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -104,7 +92,7 @@
   <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/abderrahim-sadiki-4b5722231">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 <a href="https://github.com/AbderrahimSadiki">
   <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
