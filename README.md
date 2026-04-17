@@ -16,6 +16,13 @@
 
 </div>
 
+---
+
+## About Me
+
+Computer Engineering student at **ENSA Tetouan** with a strong foundation in software development, Linux administration, and systems architecture. Passionate about programming, open-source technologies, cybersecurity, and data science. Seeking opportunities to apply and expand technical skills in a professional environment.
+
+---
 
 ## Tech Stack
 
