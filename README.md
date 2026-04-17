@@ -92,19 +92,7 @@
 
 </div>
 
----
 
-## Education
-
-```
-Computer Engineering Degree                        [2024 - present]
-ENSA Tetouan · Software Engineering · Systems · Open Source
-
-Preparatory Cycle                                  [2022 - 2024]
-ENSA Tetouan · Mathematics · Algorithms · Problem Solving
-```
-
----
 
 ## Contact
 
