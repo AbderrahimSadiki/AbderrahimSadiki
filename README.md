@@ -33,21 +33,6 @@
 
 ---
 
-## 👨‍💻 À propos de moi
-
-```bash
-$ whoami
-> Abderrahim Sadiki — Étudiant Ingénieur en Génie Informatique, ENSA Tétouan (2ème année)
-
-$ cat focus.txt
-> Projets académiques bien structurés · Travail en équipe · Rigueur technique
-> Progression vers des expériences professionnelles avancées
-
-$ cat interests.txt
-> Linux · Architecture système · Cybersécurité · Écosystème open source
-```
-
-Mon objectif : concevoir des produits techniques **fiables**, avec une attention particulière à la structure du code, à l'outillage, à l'automatisation et à la clarté de l'expérience utilisateur.
 
 ---
 
