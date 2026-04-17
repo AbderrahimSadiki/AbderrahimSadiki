@@ -27,25 +27,6 @@
 
 </div>
 
----
-
-## About Me
-
-```bash
-$ whoami
-> Abderrahim Sadiki — Computer Engineering Student, ENSA Tetouan (2nd year)
-
-$ cat focus.txt
-> Well-structured academic projects · Teamwork · Technical rigor
-> Progressing toward advanced professional experience
-
-$ cat interests.txt
-> Linux · System architecture · Cybersecurity · Open source ecosystem
-```
-
-My goal is to build reliable technical products with strong attention to code structure, tooling, automation, and user experience clarity.
-
----
 
 ## Tech Stack
 
