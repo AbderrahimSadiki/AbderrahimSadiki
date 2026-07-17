@@ -75,26 +75,6 @@ Computer Engineering student at **ENSA Tetouan** with a strong foundation in sof
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbderrahimSadiki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahimSadiki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbderrahimSadiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=f59e0b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbderrahimSadiki&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f59e0b&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
 
 
 
